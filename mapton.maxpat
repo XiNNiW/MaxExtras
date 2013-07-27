@@ -7,7 +7,7 @@
 			"revision" : 7
 		}
 ,
-		"rect" : [ 35.0, 194.0, 640.0, 480.0 ],
+		"rect" : [ 208.0, 195.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -36,7 +36,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3.0, 461.0, 150.0, 20.0 ],
-					"presentation_rect" : [ -2.0, 461.0, 0.0, 0.0 ],
 					"text" : "modal out"
 				}
 
@@ -166,7 +165,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"patching_rect" : [ 147.0, 114.0, 38.0, 20.0 ],
-					"text" : "% 28"
+					"text" : "% 27"
 				}
 
 			}
